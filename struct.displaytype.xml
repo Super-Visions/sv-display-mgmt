@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set>
+	<DisplayType id="1">
+		<name>Monitor</name>
+	</DisplayType>
+	<DisplayType id="2">
+		<name>TV</name>
+	</DisplayType>
+	<DisplayType id="3">
+		<name>Projector</name>
+	</DisplayType>
+	<DisplayType id="4">
+		<name>Smart Board</name>
+	</DisplayType>
+</Set>
