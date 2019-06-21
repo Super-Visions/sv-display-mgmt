@@ -229,8 +229,6 @@
 	<menus>
 		<menu id="ConfigManagementOverview" xsi:type="DashboardMenuNode" _delta="must_exist">
 			<definition>
-				<layout>DashboardLayoutOneCol</layout>
-				<title/>
 				<cells>
 					<cell id="2">
 						<dashlets>
