@@ -287,7 +287,7 @@
 				<entry id="Class:Display/Attribute:size+" _delta="define">Grootte van het scherm in inches</entry>
 				<entry id="Class:Display/Attribute:type_id" _delta="define">Type</entry>
 				<entry id="Class:Display/Attribute:type_id+" _delta="define"/>
-				<entry id="Class:DisplayType" _delta="define">Scherm Type</entry>
+				<entry id="Class:DisplayType" _delta="define">Soort Scherm</entry>
 				<entry id="Class:DisplayType/Attribute:display_list" _delta="define">Schermen</entry>
 				<entry id="Class:DisplayType/Attribute:display_list+" _delta="define">Alle schermen van dit type.</entry>
 				<entry id="Class:Model/Attribute:type/Value:Display" _delta="define">Scherm</entry>
