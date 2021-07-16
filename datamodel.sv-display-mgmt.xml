@@ -296,5 +296,19 @@
 				<entry id="Class:Model/Attribute:type/Value:Display+" _delta="define"/>
 			</entries>
 		</dictionary>
+		<dictionary id="PT BR">
+			<entries>
+				<entry id="Class:Display" _delta="define">Monitor</entry>
+				<entry id="Class:Display/Attribute:size" _delta="define">Tamanho</entry>
+				<entry id="Class:Display/Attribute:size+" _delta="define">Tamanho do monitor em polegadas</entry>
+				<entry id="Class:Display/Attribute:type_id" _delta="define">Tipo</entry>
+				<entry id="Class:Display/Attribute:type_id+" _delta="define"/>
+				<entry id="Class:DisplayType" _delta="define">Tipo de monitor</entry>
+				<entry id="Class:DisplayType/Attribute:display_list" _delta="define">Monitores</entry>
+				<entry id="Class:DisplayType/Attribute:display_list+" _delta="define">Todos monitores deste tipo.</entry>
+				<entry id="Class:Model/Attribute:type/Value:Display" _delta="define">Monitor</entry>
+				<entry id="Class:Model/Attribute:type/Value:Display+" _delta="define"/>
+			</entries>
+		</dictionary>
 	</dictionaries>
 </itop_design>
