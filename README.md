@@ -1,6 +1,6 @@
 # Display Management
 
-The module `sv-display-mgmt` is an [iTop](https://www.itophub.io/) extension to add a new object class [Display](#display) to the [End user devices](https://www.itophub.io/wiki/page?id=latest:datamodel:itop-endusers-devices).
+The module `sv-display-mgmt` is an [iTop][1] extension to add a new object class [Display](#display) to the [End user devices][2].
 This new class can be used to document monitors, multimedia projectors, TV and smart boards.
 
 ## Installation
@@ -20,3 +20,6 @@ Be sure to enable the extension during setup.
 ### DisplayType
 
 Parent: `Typology`
+
+[1]:https://www.itophub.io/
+[2]:https://www.itophub.io/wiki/page?id=latest:datamodel:itop-endusers-devices
