@@ -1,0 +1,6 @@
+# Auto generated datamodel file
+model.*.php
+
+# Ignore dictionary files
+dict.*.json
+for_use_*.json

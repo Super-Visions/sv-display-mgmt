@@ -21,5 +21,13 @@ Be sure to enable the extension during setup.
 
 Parent: `Typology`
 
+## Contribute
+
+### Translation
+
+Translations can be submitted via [Transifex][3].
+Please create a new issue if you want a new language to be added to the project.
+
 [1]:https://www.itophub.io/
 [2]:https://www.itophub.io/wiki/page?id=latest:datamodel:itop-endusers-devices
+[3]:https://www.transifex.com/super-visions/sv-display-mgmt
