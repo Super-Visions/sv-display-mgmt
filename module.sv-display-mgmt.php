@@ -5,7 +5,7 @@
 
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'sv-display-mgmt/1.1.0',
+	'sv-display-mgmt/1.1.1',
 	array(
 		// Identification
 		//
