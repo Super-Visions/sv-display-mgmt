@@ -30,7 +30,7 @@ SetupWebPage::AddModule(
 
 		),
 		'data.struct' => array(
-			'struct.displaytype.xml',
+			'data/struct.displaytype.xml',
 		),
 		'data.sample' => array(
 			// add your sample data XML files here,
