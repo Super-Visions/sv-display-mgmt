@@ -12,7 +12,7 @@ Be sure to enable the extension during setup.
 
 ### Display
 
-![Display icon](images/display.png) Parent: `PhysicalDevice`
+![Display icon](asset/img/icons8-display.svg) Parent: `PhysicalDevice`
 
 * Size _(Integer)_ Size of the display in inches
 * Type _(ExternalKey)_ [DisplayType](#displaytype)
