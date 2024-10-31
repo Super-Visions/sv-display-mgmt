@@ -311,6 +311,20 @@
 				<entry id="Class:Model/Attribute:type/Value:Display" _delta="define">Monitor</entry>
 				<entry id="Class:Model/Attribute:type/Value:Display+" _delta="define"><![CDATA[]]></entry>
 			</entries>
+			<dictionary id="FR FR">
+				<entries>
+					<entry id="Class:Display" _delta="define">Ecran</entry>
+					<entry id="Class:Display/Attribute:size" _delta="define">Taille</entry>
+					<entry id="Class:Display/Attribute:size+" _delta="define">Taille de l'écran en pouces</entry>
+					<entry id="Class:Display/Attribute:type_id" _delta="define">Type</entry>
+					<entry id="Class:Display/Attribute:type_id+" _delta="define"><![CDATA[]]></entry>
+					<entry id="Class:DisplayType" _delta="define">Type d'écran</entry>
+					<entry id="Class:DisplayType/Attribute:display_list" _delta="define">Ecrans</entry>
+					<entry id="Class:DisplayType/Attribute:display_list+" _delta="define">Tous les écrans de ce type.</entry>
+					<entry id="Class:Model/Attribute:type/Value:Display" _delta="define">Ecran</entry>
+					<entry id="Class:Model/Attribute:type/Value:Display+" _delta="define"><![CDATA[]]></entry>
+				</entries>
+			</dictionary>
 		</dictionary>
 	</dictionaries>
 </itop_design>
