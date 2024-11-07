@@ -322,7 +322,7 @@
 					<entry id="Class:DisplayType/Attribute:display_list" _delta="define">Ecrans</entry>
 					<entry id="Class:DisplayType/Attribute:display_list+" _delta="define">Tous les écrans de ce type.</entry>
 					<entry id="Class:Model/Attribute:type/Value:Display" _delta="define">Ecran</entry>
-					<entry id="Class:Model/Attribute:type/Value:Display+" _delta="define"><![CDATA[]]></entry>
+					<entry id="Class:Model/Attribute:type/Value:Display+" _delta="define"/>
 				</entries>
 			</dictionary>
 		</dictionary>
