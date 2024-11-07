@@ -14,9 +14,7 @@
 					</attributes>
 				</naming>
 				<display_template/>
-				<style>
-					<icon>asset/img/icons8-display.svg</icon>
-				</style>
+				<icon>assets/img/icons8-display.svg</icon>
 				<reconciliation>
 					<attributes>
 						<attribute id="name"/>
