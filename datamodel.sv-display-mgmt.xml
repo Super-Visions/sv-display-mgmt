@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2"
+	xsi:noNamespaceSchemaLocation="https://rudnerbjoern.github.io/iTop-schema/itop_design.xsd">
 	<classes>
 		<class id="Display" _delta="define">
 			<parent>PhysicalDevice</parent>
@@ -13,8 +14,9 @@
 						<attribute id="name"/>
 					</attributes>
 				</naming>
-				<display_template/>
-				<icon>assets/img/icons8-display.svg</icon>
+				<style>
+					<icon>assets/img/icons8-display.svg</icon>
+				</style>
 				<reconciliation>
 					<attributes>
 						<attribute id="name"/>
@@ -187,8 +189,6 @@
 						<attribute id="name"/>
 					</attributes>
 				</naming>
-				<display_template/>
-				<icon/>
 				<reconciliation>
 					<attributes>
 						<attribute id="name"/>
@@ -218,7 +218,7 @@
 		</class>
 		<class id="Model" _created_in="itop-config-mgmt" _delta="must_exist">
 			<fields>
-				<field id="type">
+				<field id="type" xsi:type="AttributeEnum">
 					<values>
 						<value id="Display" _delta="define">
 							<code>Display</code>
